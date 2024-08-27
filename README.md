@@ -1,6 +1,6 @@
-# java-jenkins-cicd-pipeline
+# Java-Jenkins-CI-CD-Pipeline
 
-# Automated CI/CD Pipeline for Java Applications with Jenkins
+## Automated CI/CD Pipeline for Java Applications with Jenkins
 
 This repository contains the code and configuration files to set up an automated CI/CD pipeline for a Java-based application using Jenkins. The pipeline is designed to automate the build, test, and deployment processes, ensuring high code quality and security.
 
